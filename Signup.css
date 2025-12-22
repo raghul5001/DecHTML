@@ -1,0 +1,17 @@
+.signup{
+    color: royalblue;
+}
+
+.total{
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
